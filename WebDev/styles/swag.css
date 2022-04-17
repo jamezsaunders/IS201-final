@@ -1,0 +1,21 @@
+.back {
+    background-color: cadetblue;
+}
+.oh {
+    background-color: aliceblue;
+}
+.border {
+    border: solid 10px chocolate;
+}
+.font {
+    font-style: italic;
+}
+.bold{
+    font-weight: bold;
+}
+.words{
+    font-weight: lighter;
+}
+.hi{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
